@@ -6,7 +6,6 @@
 - 😄 Pronouns: Auguste 
 - ⚡ Fun fact: ...
 This is a smoll algorithmus in Typescript .
-![image](https://github.com/auguste2003/auguste2003/assets/130369166/d358efce-9b72-4fc6-a792-374f739bce9f)
 
 
 <!---
