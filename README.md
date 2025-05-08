@@ -6,10 +6,11 @@
 - 😄 Pronouns: Auguste 
 - ⚡ Fun fact: ...
 This is a smoll algorithmus in Typescript .
+```
 // Why don't Angular developers like jokes?
 const joke = "Because they lack reusable components!";
 console.log(joke);
-
+``
 
 <!---
 auguste2003/auguste2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
