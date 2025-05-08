@@ -6,6 +6,9 @@
 - 😄 Pronouns: Auguste 
 - ⚡ Fun fact: ...
 This is a smoll algorithmus in Typescript .
+// Why don't Angular developers like jokes?
+const joke = "Because they lack reusable components!";
+console.log(joke);
 
 
 <!---
